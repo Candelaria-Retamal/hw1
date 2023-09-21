@@ -8,7 +8,7 @@ The objectives of this homework assignment are the followings:
 - Become familiar with GitHub as a collaborative tool.
 
 ## Deadline :alarm_clock:
-Submit the homework at last by Thursday 9th of October 2023 at 23:59pm
+Submit the homework at last by Wednesday 18th of October 2023 at 23:59pm
 by pushing to the dedicated repository.
 
 ## Requirements :warning:
@@ -53,8 +53,8 @@ containing at least the following elements:
 + A section called "RMarkdown Syntax", where you will demonstrate your
 RMarkdown skills! In this section make sure to:
   - Illustrate an example to demonstrate a situation where caching a chunk
-  using `cache = T` might not be beneficial. Provide a brief explanation of the
-  results observed.
+  using `cache = T` leads to incorrect execution of the code.
+  Provide a brief explanation of the results observed.
   - Generate 2000 random samples from a Poisson distribution with $\lambda = 2$
   using the function `rpois()`. Store these 2000 values in a vector called `y`.
   Then, compute the empirical mean and variance of `y`. Are these different
@@ -65,11 +65,18 @@ RMarkdown skills! In this section make sure to:
   10 and make sure to include a caption for your figure. Now, change the number
   of bins to 50. How does the change in the number of bins affect the visual
   interpretation of the data?
-  - Include the following equation: ![eq](hw1_eq1.png)
+  - Include the following equation:
+
+  ![eq1](hw1_eq1.png)
+  
   - Include the following in-line equation:
   
   <img src="hw1_eq2.png" alt="eq2" style="display: inline-block; margin: 0" width="100px"/>
   
+  - Go to URL, open the paper titled "", find Equation (...) and include it here.
+  Also, add the reference to the paper.
+  Your answer should start with 
+  "As shown in _(insert referernce here)_, the ... is explained by equation (...), and has the form: _(insert equation here)_".
   - Present the following quote in blue:
   "The only thing that is constant is change.", Heraclitus.
   - Insert a "Show/Hide Answer" button that reveals the solution to a given
