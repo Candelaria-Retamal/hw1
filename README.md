@@ -87,7 +87,7 @@ the data?
 paper called "On Localization of the Fractional Discrete
 Nonlinear Schrödinger Equation". Locate Equation (2.5) and include
 it here. Additionally, give a citation for the paper. Your answer should
-start with "In *(insert referernce here)*, the singular
+start with "In *(insert reference here)*, the singular
 integral representation of the fractional Laplacian is defined
 as"
 
