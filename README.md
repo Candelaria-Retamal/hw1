@@ -32,13 +32,13 @@ Use the font `Verdana` with size 16. This file should contain the
 following elements:
 
 - A "title" section which should at least include:
-  - A title (e.g. Homework 1)\
-  - The authors\
-  - The date (think of using `Sys.time()`)\
+  - A title (e.g. Homework 1)   
+  - The authors   
+  - The date (think of using `Sys.time()`)   
 
 - A section called "Introduction" where you provide a short summary of
   the structure of your homework. Moreover, record a short video to
-  introduce your group and include it in your RMarkdown document.\
+  introduce your group and include it in your RMarkdown document.   
 
 - A section called "Group Members". This section should have one
   subsection for each group member in your team. For example, a group
@@ -47,11 +47,11 @@ following elements:
   biographies containing at least the following elements:
 
   - An avatar picture. Make sure to include a caption for this
-  image. Make sure all pictures have the same size.\
+  image. Make sure all pictures have the same size.   
   - A paragraph describing your favorite hobby as well as one
-  interesting fact about yourself (preferably true).\
+  interesting fact about yourself (preferably true).    
   - Your favorite quote in blockquote format. Make sure to reference
-  your quote using BibTex.\
+  your quote using BibTex.   
   - A table having two columns (first column containing the classes
   you are following this semester; second column containing the
   time of these classes).
@@ -83,10 +83,10 @@ the data?
 
 <img src="hw1_eq2.png" alt="eq2" style="display: inline-block; margin: 0" width="100px"/>
 
-- Visit the website [arxiv](https://arxiv.org/abs/2309.11395) and look for the
+- Visit the website [arxiv](https://arxiv.org/) and search for the
 paper called "On Localization of the Fractional Discrete
 Nonlinear Schrödinger Equation". Locate Equation (2.5) and include
-it here. Additionally, give a citation for the paper. Your answer should
+it here. Cite the paper by adding the reference in your bibTex file. Your answer should
 start with "In *(insert reference here)*, the singular
 integral representation of the fractional Laplacian is defined
 as"
