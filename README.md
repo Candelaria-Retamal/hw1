@@ -83,11 +83,11 @@ the data?
 
 <img src="hw1_eq2.png" alt="eq2" style="display: inline-block; margin: 0" width="100px"/>
 
-- Go to [arxiv](https://arxiv.org/abs/2309.11395) and open the
-paper titled "On Localization of the Fractional Discrete
-Nonlinear Schrödinger Equation", find Equation (2.5) and include
-it here. Also, add reference to the paper. Your answer should
-start with "As shown in *(insert referernce here)*, the singular
+- Visit the website [arxiv](https://arxiv.org/abs/2309.11395) and look for the
+paper called "On Localization of the Fractional Discrete
+Nonlinear Schrödinger Equation". Locate Equation (2.5) and include
+it here. Additionally, give a citation for the paper. Your answer should
+start with "In *(insert referernce here)*, the singular
 integral representation of the fractional Laplacian is defined
 as"
 
